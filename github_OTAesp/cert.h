@@ -27,4 +27,7 @@ const char * rootCACertificate = \
 "CAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4=\n" \
 "-----END CERTIFICATE-----\n";
 
+
+
+
 #endif
